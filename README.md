@@ -15,7 +15,7 @@ This command downloads the repository and its contents into a new folder named `
 3. Navigate to the Repository Folder: Change your current directory to the newly cloned repository by running:
 
 ```
-cd mma867
+cd dhai130
 ```
 
 4. Install Required Libraries: Now, install all the required libraries listed in the requirements.txt file using pip. Make sure you have Python and pip installed on your system. Run the following command:
