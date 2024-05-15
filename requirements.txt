@@ -4,3 +4,6 @@ scikit-learn
 matplotlib
 plotly
 seaborn
+pycaret
+ydata-profiling
+dtale
