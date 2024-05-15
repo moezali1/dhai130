@@ -2,9 +2,7 @@
 
 ## Cloning the Repository and Installing Dependencies
 
-1. Open Terminal or Command Prompt: First, open your Terminal (on macOS or Linux) or Command Prompt (on Windows).
-
-2. **Install Anaconda:**
+1. **Install Anaconda:**
 
    - **Windows:**
      1. Download the Anaconda installer from the [official Anaconda website](https://www.anaconda.com/products/distribution#download-section).
@@ -23,16 +21,16 @@
         ```
      4. Follow the instructions in the Terminal.
 
-3. **Install Visual Studio Code (VS Code):**
+2. **Install Visual Studio Code (VS Code):**
 
    - Download and install Visual Studio Code from the [official VS Code website](https://code.visualstudio.com/).
 
-4. **Install Git (Windows Users Only):**
+3. **Install Git (Windows Users Only):**
 
    - Download and install Git from the [official Git website](https://git-scm.com/download/win).
    - Follow the installation instructions.
 
-5. **Configure Git and Authenticate:**
+4. **Configure Git and Authenticate:**
 
    - After installing Git, open Git Bash or Command Prompt and configure your Git username and email. These details will be associated with your commits:
      ```
@@ -43,7 +41,7 @@
      1. Generate a personal access token on GitHub by following the instructions [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token).
      2. Use the token to authenticate when prompted during a Git operation like `git clone` or `git push`.
 
-6. **Setup Conda Environment and Jupyter Kernel:**
+5. **Setup Conda Environment and Jupyter Kernel:**
 
    - Open Terminal or Anaconda Prompt and create a new conda environment named `dhai130` with the following command:
      ```
@@ -62,7 +60,7 @@
      python -m ipykernel install --user --name dhai130 --display-name "dhai130"
      ```
 
-7. **Clone the Repository:**
+6. **Clone the Repository:**
 
    - Use the following command to clone the repository to your local machine:
      ```
@@ -70,14 +68,14 @@
      ```
    - This command downloads the repository and its contents into a new folder named `dhai130` in the current directory.
 
-8. **Navigate to the Repository Folder:**
+7. **Navigate to the Repository Folder:**
 
    - Change your current directory to the newly cloned repository by running:
      ```
      cd dhai130
      ```
 
-9. **Install Required Libraries:**
+8. **Install Required Libraries:**
 
    - Now, install all the required libraries listed in the `requirements.txt` file using pip. Make sure you have Python and pip installed on your system. Run the following command:
      ```
