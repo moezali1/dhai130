@@ -77,7 +77,7 @@
 
 8. **Install Required Libraries:**
 
-   - Now, install all the required libraries listed in the `requirements.txt` file using pip. Make sure you have Python and pip installed on your system. Run the following command:
+   - Now, install all the required libraries isted in the `requirements.txt` file using pip. Make sure you have Python and pip installed on your system. Run the following command:
      ```
      pip install -r requirements.txt
      ```
@@ -86,3 +86,6 @@
 ## Data
 
 For labs where a data file is needed, the data is stored as a CSV file in the respective folder. For example, data needed for Week 2 is in the Week 2 folder.
+
+Thank you
+
