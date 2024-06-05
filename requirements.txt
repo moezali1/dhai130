@@ -7,3 +7,4 @@ seaborn
 pycaret
 ydata-profiling
 dtale
+shap==0.42.0
